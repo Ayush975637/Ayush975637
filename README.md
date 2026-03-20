@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Aggrawal</h1>
-<h3 align="center">👨‍💻 B.Tech EE @ NIT Kurukshetra | Bridging Electrical, Electronics & Space Tech 🚀 | Fullstack & AI Enthusiast</h3>
+<h3 align="center">👨‍💻 B.Tech  @ NIT Kurukshetra || Fullstack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayush975637&label=Profile%20views&color=0e75b6&style=flat" alt="Ayush975637" />
@@ -11,13 +11,13 @@
 
 - 🎓 **Education:** NIT Kurukshetra, B.Tech (Electrical Engineering)
 - 🌍 **Location:** Mathura (UP), India
-- 🖥️ **Core Skills:** React, MERN Stack, Next.js, PostgreSQL, Python, C++
-- 🧑‍💻 **DSA:** Data Structures & Algorithms (competitive programming, problem-solving)
+- 🖥️ **Core Skills:** React, MERN Stack, Next.js, PostgreSQL,  C++
+- 🧑‍💻 **DSA:** Data Structures & Algorithms ( problem-solving)
 - 🏗️ **System Design:** Scalable web architecture & microservices
-- 🤖 **AI & ML:** Neural networks, ML algorithms, LLMs, Generative AI
+
 - ⚡ **DevOps & Infra:** Docker, CI/CD, cloud deploys, backend systems, infra as code
-- 🔍 **Iot & Embedded:** Embedded programming, automation, electronics prototyping
-- 🚀 **Domains:** Full Stack Development, IoT/Embedded Systems, Space & Satellite Tech
+
+- 🚀 **Domains:** Full Stack Development
 - 👨‍🏫 **Currently Learning:** Advanced Infra, DevOps, Backend, Distributed Systems
 - 📫 **Contact:** aa7782549@gmail.com
 
@@ -52,9 +52,9 @@
   - Data Structures & Algorithms (DSA)
   - System Design & Microservices
   - DevOps, Infra, Backend Engineering
-  - Artificial Intelligence, Machine Learning, Neural Networks, Generative AI
-  - IoT/Embedded Systems, Electronics, Automation
-  - Space & Satellite Tech
+  - Artificial Intelligence, Generative AI
+  
+ 
 
 ---
 
