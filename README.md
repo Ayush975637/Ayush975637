@@ -58,17 +58,7 @@
 
 ---
 
-### 🗂️ My Projects
 
-<a href="https://github.com/Ayush975637/ElectroSpace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush975637&repo=ElectroSpace&theme=radical" />
-</a>
-<a href="https://github.com/Ayush975637/Iot-Home-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush975637&repo=Iot-Home-Automation&theme=radical" />
-</a>
-<a href="https://github.com/Ayush975637/Space-Tech-Basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush975637&repo=Space-Tech-Basics&theme=radical" />
-</a>
 <!-- Add more pins as needed -->
 
 ---
@@ -81,12 +71,12 @@
   <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-Linux-ffcc00?style=for-the-badge&logo=linux&logoColor=black" />
   <!-- Add more as needed -->
 </p>
@@ -99,12 +89,6 @@
 
 ---
 
-### 📝 Latest Repositories
-
-- [ElectroSpace](https://github.com/Ayush975637/ElectroSpace)
-- [Iot-Home-Automation](https://github.com/Ayush975637/Iot-Home-Automation)
-- [Space-Tech-Basics](https://github.com/Ayush975637/Space-Tech-Basics)
-- <!-- Add more repositories as needed -->
 
 ---
 
